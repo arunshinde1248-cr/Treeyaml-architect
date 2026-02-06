@@ -1,0 +1,6 @@
+
+{
+  "name": "TreeYAML Architect",
+  "description": "A visual binary tree management suite with real-time YAML synchronization, node manipulation, and interactive graph visualization.",
+  "requestFramePermissions": []
+}
