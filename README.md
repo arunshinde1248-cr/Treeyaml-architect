@@ -1,14 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+#Description
+The task focuses on setting up and running a basic CFD simulation and analyzing the results.
 
-## Run Locally
+#Objective
+Understand the given CFD problem
+Run the simulation
+Analyze the output
+ 
+#Tools & Technologies
+Computational Fluid Dynamics (CFD)
+Simulation software provided by FOSSEE
+Basic AI & ML concepts (if applicable)
 
-**Prerequisites:**  Node.js
+# How to Run
+Open the input_files folder
+Load the input files into the CFD software
+Run the simulation
+Check results in the output_results folder
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+#Outcome
+Successful execution of the CFD simulation
+Visualization and analysis of results
+Better understanding of CFD fundamentals
